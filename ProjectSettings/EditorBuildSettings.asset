@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: e80d9dc99837e8b459a7c2cbe9b7ee9c
+  - enabled: 1
+    path: Assets/Scenes/EscapeRooms.unity
+    guid: b91f2b36f081c414db4acca11e8a1e26
+  - enabled: 1
+    path: Assets/Scenes/Sandbox.unity
+    guid: 49a932436c6d49e45b0e6dbfa7572efc
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e858d7a0fcc87e747b406a5abd4697ab,
+      type: 2}
